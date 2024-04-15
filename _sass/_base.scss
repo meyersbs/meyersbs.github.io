@@ -37,7 +37,7 @@ p {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
   background: $theme-color;
-  max-width: 1000px;
+  max-width: 1550px;
   margin: 0 auto;
   position: relative;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
@@ -164,6 +164,7 @@ p {
   order: $resume-order;
   background: #fff;
   padding: 60px;
+  text-align: justify;
   .section-title {
     text-transform: uppercase;
     font-size: 20px;
@@ -178,6 +179,11 @@ p {
   }
 
   .experiences-section,
+  .researchexperiences-section,
+  .academicexperiences-section,
+  .journalexperiences-section,
+  .mentorshipexperiences-section,
+  .organizations-sections,
   .educations-section {
     .item {
       margin-bottom: 30px;
@@ -197,7 +203,7 @@ p {
     font-size: 16px;
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: 500;
+    font-weight: bold;
     flex: 75%;
   }
   .time,
@@ -232,6 +238,7 @@ p {
   }
 
   .publication-title {
+    font-style: bold;
     font-size: 16px;
     font-weight: 400;
     color: $text-color;
@@ -241,6 +248,10 @@ p {
     font-style: italic;
     color: $text-grey;
     margin-bottom: 1px;
+    padding-left: 1.4em;
+  }
+  .publication-conference {
+    padding-left: 1.4em;
   }
   .publications-section {
     .intro {
@@ -248,8 +259,39 @@ p {
     }
     .item {
       margin-bottom: 15px;
+      a {
+        font-weight: bold;
+      }
     }
   }
+  .presentation-title {
+    font-style: bold;
+    font-size: 16px;
+    font-weight: 400;
+    color: $text-color;
+    margin-bottom: 1px;
+  }
+  .presentation-authors {
+    font-style: italic;
+    color: $text-grey;
+    margin-bottom: 1px;
+    padding-left: 1.4em;
+  }
+  .presentation-conference {
+    padding-left: 1.4em;
+  }
+  .presentations-section {
+    .intro {
+      margin-bottom: 30px;
+    }
+    .item {
+      margin-bottom: 15px;
+      a {
+       font-weight: bold;
+     }     
+    }
+  }
+
 }
 
 .skillset {

@@ -8,14 +8,14 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Benjamin S. Meyers, Ph.D.
-    tagline: Research Computing Facilitator II
+    name: Benjamin S. Meyers
+    tagline: Lifelong Learner
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bsmits@rit.edu
     phone: 
-    timezone: America/Cancun Timezone
+    timezone: 
     citizenship:
     website: #do not add http://
     linkedin: benjaminsmeyers
@@ -27,7 +27,7 @@ sidebar:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 10279778-benjamin-meyers # Number-Username, e.g. 123456-alandoe
+    goodreads: #10279778-benjamin-meyers # Number-Username, e.g. 123456-alandoe
     pdf: 
 
     languages:
@@ -36,224 +36,443 @@ sidebar:
         - idiom: English
           level: Native
 
+        - idiom: Python
+          level: Expert
+
+        - idiom: C/C++
+          level: Intermediate
+
+        - idiom: Java
+          level: Intermediate
+
+        - idiom: Bash
+          level: Proficient
+
+        - idiom: HTML/CSS
+          level: Proficient
+
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Software Engineering
           link:
 
-        - item: Snowboarding
+        - item: High-Performance Computing
           link:
 
-        - item: Cooking
+        - item: Software Security
+          link:
+
+        - item: Human Error
+          link:
+
+        - item: Lego
+          link:
+
+        - item: Homebrewing
+          link:
+
+        - item: Reading
+          link:
+
+        - item: Botany
+          link: 
+
+        - item: Astrophysics
+          link:
+
+        - item: Philosophy
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My current role as a Research Computing Facilitator at Rochester Institute of Technology enables me to combine my passion for software engineering, security, research, and teaching to assist multi-disciplinary researchers in their quest to discover. Outside of work, I relax by reading (mostly non-fiction), building Lego (sets and custom designs), brewing beer (I'm not good at it yet), and studying the works of J.R.R. Tolkien.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ph.D. in Computing & Information Sciences
+        university: Rochester Institute of Technology
+        time: Aug 2018 - Dec 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          **Advisor:** Dr. Andrew Meneely
+
+          **Committee:** Dr. Daniel Krutz, Dr. Mehdi Mirakhorli, Dr. Emily Prud'hommeaux
+
+          **Dissertation Title:** [Human Error Assessment in Software Engineering](https://repository.rit.edu/theses/11609/)
+
+          **Dissertation Abstract:** Software engineers work under strict constraints, balancing a complex, multi-phase development process on top of user support and professional development. Despite their best efforts, software engineers experience human errors, which manifest as software defects. While some defects are simple bugs, others can be costly security vulnerabilities. Practices such as defect tracking and vulnerability disclosure help software engineers reflect on the outcomes of their human errors (*i.e.* software failures), and even the faults that led to those failures, but not the underlying human behaviors. While human error theory from psychology research has been studied and applied to medical, industrial, and aviation accidents, researchers are only beginning to systematically reflect on software engineers' human errors. Some software engineering research has used human error theories from psychology to help developers identify and organize their human errors (mistakes) during requirements engineering activities, but developers need an improved and systematic way to reflect on their human errors during other phases of software development. The goal of this dissertation is **to help software engineers confront and reflect on their human errors by creating a process to document, organize, and analyze human errors.** To that end, our research comprises three phases: (1) systematization (*i.e.* identification and taxonomization) of software engineers' human errors from literature and development artifacts into a Taxonomy of Human Errors in Software Engineering (T.H.E.S.E.), (2) evaluation and refinement of T.H.E.S.E. based on software engineers' perceptions and natural language insights, and (3) creation of a human error informed micro post-mortem process and the Human Error Reflection Engine (H.E.R.E.), a proof-of-concept GitHub workflow facilitating human error reflection. In demonstrating the utility of T.H.E.S.E. and our micro post-mortem process, the software development community will be closer to inculcating the wisdom of historical developer human errors, enabling them to engineer higher quality and more secure software.
+
+          **Notable Coursework:** Regression Analysis, Nonparametric Statistics & Bootstrapping, Fundamentals of Computer Networking, Cyberinfrastructure Foundations, Neural Networks for Data Science, Fundamentals of Instructional Technology, Teaching Skills Workshop, Introduction to Greographic Information Systems
+      - degree: B.S. in Software Engineering
+        university: Rochester Institute of Technology
+        time: Aug 2013 - May 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          **Concentration:** Computational Linguistics
+
+          **Notable Linguistics Coursework:** Introduction to Language Science, Language & Linguistics, Evolving English Language, Psycholinguistics, Introduction to Natural Language Processing, Spoken Language Processing, Science & Analytics of Speech, Language & Culture, Language & Sexuality, Language Technology
+
+          **Notable Software Engineering & Computer Science Coursework:** Introduction to Computer Science Theory, Principles of Data Mining, Mathematical Models of Software, Engineering of Concurrent & Distributed Software Systems, Software Process & Project Management, Software Performance Engineering, Engineering of Software Subsystems, Personal Software Engineering, Engineering Secure Software, Discrete Mathematics for Computing, Linear Algebra, Applied Statistics
+
+publications:
+    title: Research Publications
+    intro: |
+    papers:
+      - title: "Taxonomy-Based Human Error Assessment for Senior Software Engineering Students"
+        link: "https://dl.acm.org/doi/10.1145/3626252.3630936"
+        authors: Benjamin S. Meyers, Andrew Meneely
+        conference: "Conference: ACM Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium. March 2024."
+
+      - title: "Human Error Assessment in Software Engineering"
+        link: "https://repository.rit.edu/theses/11609/"
+        authors: Benjamin S. Meyers
+        conference: "Ph.D. Dissertation: Rochester Institute of Technology. December 2023."
+
+      - title: "What Happens When We Fuzz? Investigating OSS-Fuzz Bug History"
+        link: "https://ieeexplore.ieee.org/abstract/document/10174067"
+        authors: Brandon N. Keller, Benjamin S. Meyers, Andrew Meneely
+        conference: "Conference: Mining Software Repositories (MSR). May 2023."
+
+      - title: "Examining Penetration Tester Behavior in the Collegiate Penetration Testing Competition"
+        link: "https://dl.acm.org/doi/10.1145/3514040"
+        authors: Benjamin S. Meyers, Sultan Fahad Almassari, Brandon N. Keller, Andrew Meneely
+        conference: "Journal: ACM Transactions on Software Engineering and Methodology (TOSEM). July 2022."
+
+      - title: "An Automated Post-Mortem Analysis of Vulnerability Relationships Using Natrual Language Word Embeddings"
+        link: "https://www.sciencedirect.com/science/article/pii/S1877050921007948"
+        authors: Benjamin S. Meyers, Andrew Meneely
+        conference: "Conference: Symposium on Machine Learning and Big Data Analytics for Cybersecurity and Privacy. May 2021."
+
+      - title: "Developing a Geographic Information Capacity (GIC) Profile for Disaster Risk Management Under United Nations Framework Commitments"
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S2212420919317522"
+        authors: Brian M. Tomaszewski, Elizabeth A. Moore, Kyle Parnell, Alexandra M. Leader, William R. Armington, Omar Aponte, Leslie Brooks, Brienna K. Herold, Benjamin S. Meyers, Tayler Ruggero, Zachary Sutherby, Madeline Wolters, Sandy Wua, Jörg Szarzynski, Klaus Greve, and Robert Parody
+        conference: "Journal: Disaster Risk Reduction (IJDRR). April 2020."
+
+      - title: "Pragmatic Characteristics of Security Conversations: An Exploratory Linguistic Analysis"
+        link: "https://ieeexplore.ieee.org/abstract/document/8816959"
+        authors: Benjamin S. Meyers, Nuthan Munaiah, Andrew Meneely, Emily Prud'hommeaux
+        conference: "Conference: International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE). May 2019."
+
+      - title: "A Dataset for Identifying Actionable Feedback in Collaborative Software Development"
+        link: "https://aclanthology.org/P18-2021/"
+        authors: Benjamin S. Meyers, Nuthan Munaiah, Emily Prud'hommeaux, Andrew Meneely, Cecilia O. Alm, Josephine Wolff, Pradeep Murukannaiah
+        conference: "Conference: Meeting for the Association for Computational Linguistics (ACL). July 2018."
+
+      - title: "An Analysis and Visualization Tool for Case Study Learning of Linguistic Concepts"
+        link: "https://aclanthology.org/D17-2003/"
+        authors: Cecilia O. Alm, Benjamin S. Meyers, Emily Prud'hommeaux
+        conference: "Conference: Empirical Methods in Natural Language Processing (EMNLP). September 2017."
+
+      - title: "Natural Language Insights from Code Reviews that Missed a Vulnerability"
+        link: "https://link.springer.com/chapter/10.1007/978-3-319-62105-0_5"
+        authors: Nuthan Munaiah, Benjamin S. Meyers, Cecilia O. Alm, Andrew Meneely, Pradeep K. Murukannaiah, Emily Prud'hommeaux, Josephine Wolff, Yang Yu
+        conference: "Conference: International Symposium for Engineering Secure Software and Systems (ESSoS). August 2017."
+        
+presentations:
+    title: Presentations
+    intro: |
+    papers:
+      - title: "Introduction to Research Computing at RIT"
+        link: "#"
+        authors: Benjamin S. Meyers
+        conference: "Conference: Upstate New York Statistics Conference (UPSTAT). April 2024."
+
+      - title: "Taxonomy-Based Human Error Assessment for Senior Software Engineering Students"
+        link: "#"
+        authors: Benjamin S. Meyers, Andrew Meneely
+        conference: "Conference: ACM Special Interest Group on Computer Science Education (SIGCSE). March 2024."
+
+      - title: "Introduction to the Research Computing Cluster"
+        link: "#"
+        authors: Benjamin S. Meyers
+        conference: "Doctoral Student Association at Rochester Institute of Technology. September 2023."
+
+      - title: "Human Error Assessment in Software Engineering"
+        link: "#"
+        authors: Benjamin S. Meyers
+        conference: "Ph.D. Dissertation Defense: Rochester Institute of Technology. October 2023."
+
+      - title: "An Automated Post-Mortem Analysis of Vulnerability Relationships Using Natural Language Word Embeddings"
+        link: "#"
+        authors: Benjamin S. Meyers, Andrew Meneely
+        conference: "Conference: Upstate New York Statistics Conference (UPSTAT). April 2023."
+
+      - title: "Introduction to the Research Computing High-Performance Computing (HPC) Cluster"
+        link: "#"
+        authors: Benjamin S. Meyers, Emilio Del Plato, Sidney Pendelberry
+        conference: "Doctoral Student Association at Rochester Institute of Technology. September 2022."
+
+      - title: "Introduction to the Research Computing High-Performance Computing (HPC) Cluster"
+        link: "#"
+        authors: Benjamin S. Meyers, Emilio Del Plato, Sidney Pendelberry
+        conference: "Teaching Skills Workshop at Rochester Institute of Technology. November 2019."
+
+      - title: "A Dataset for Identifying Actionable Feedback in Collaborative Software Development"
+        link: "#"
+        authors: Benjamin S. Meyers, Nuthan Munaiah, Emily Prud'hommeaux, Andrew Meneely, Cecilia O. Alm, Josephine Wolff, Pradeep Murkannaiah
+        conference: "Conference: Association for Computational Linguistics (ACL). July 2018."
+
+      - title: "Natural Language Insights from Code Reviews that Missed a Vulnerability"
+        link: "#"
+        authors: Nuthan Munaiah, Benjamin S. Meyers, Cecilia O. Alm, Andrew Meneely, Pradeep K. Murukannaih, Emily Prud'hommeaux, Josephine Wolff, Yang Yu
+        conference: "Golisano College of Computing & Information Sciences Graduate Research Showcase. April 2017."
+
+      - title: "Exploring Discourse of Individuals with Autism Spectrum Disorder"
+        link: "#"
+        authors: Benjamin S. Meyers, Cecilia O. Alm, Emily Prud'hommeaux
+        conference: "Conference: International Meeting for Autism Research (IMFAR). May 2016."
+
+      - title: "Exploring Discourse of Individuals with Autism Spectrum Disorder"
+        link: "#"
+        authors: Benjamin S. Meyers, Cecilia O. Alm, Emily Prud'hommeaux
+        conference: "Undergraduate Research Symposium at Rochester Institute of Technology. August 2015."
 
 experiences:
-    title: Experiences
+    title: Technical Positions
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Computing Facilitator II
+        time: Jul 2022 - Present
+        company: ITS Research Computing, Rochester Institute of Technology (Full-Time)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Responsible for providing advanced computing support for RIT researchers. Assisting researchers with accessing Research Computing services, such as batch processing with Slurm, data storage on a Ceph cluster, software package management with Spack, and implementing high-performance computational workflows. Responsible for development of documentation and training resources for researchers. Responsible for planning and organizing professional and social events for researchers. Technologies include Spack, Slurm, Ceph, Ansible, Jekyll. Languages include Python, C, C++, Bash, HTML/CSS.
+      - role: Applications Developer
+        time: Aug 2019 - Aug 2020
+        company: Collegiate Penetration Testing Competition (Volunteer)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Implementation of web browser history logging for Linux/Windows competition machines. Implementation of virtual machine backup scripts. Integration with Laforge, an in-house competition infrastructure management system. Technologies included Splunk, Veeam. Languages included Bash, PowerShell, Python.
+      - role: Applications Developer
+        time: Aug 2017 - May 2018
+        company: Kate Gleason College of Engineering, Rochester Institute of Technology (Senior Project)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Implementation of new features and improvements to existing features in PICS, the purchasing and inventory control system for KGCOE's multidisciplinary senior design projects. Technologies included Active Directory, AngularJS, CLAWS, GitLab, MySQL, oVirt. Lanuguages included HTML/CSS, JavaScript, PHP.
+      - role: Applications Developer
+        time: May 2016 - May 2018
+        company: Computational Linguistics & Speech Processing Lab, Rochester Institute of Technology (Part-Time)
+        details: |
+          Implementation of improvements to Linguine, a pre-existing linguistics learning tool. Implementation of new linguistic analyses and visualizations. Technologies included MongoDB, NodeJS. Languages included HTML/CSS, JavaScript, Python.
+      - role: Website Administrator
+        time: May 2015 - May 2018
+        company: Computational Linguistics & Speech Processing Lab, Rochester Institute of Technology (Part-Time)
+        details: |
+          Management of multiple linguistics websites. Design and implementation of Language Science Department website. Technologies included CLAWS, GitLab. Languages included HTML/CSS, JavaScript.
+      - role: Applications Developer
+        time: May 2016 - Sep 2016
+        company: Kate Gleason College of Engineering, Rochester Institute of Technology (Full-Time Co-Op)
+        details: |
+          Implementation of ATLAS, a web application to facilitate management of IT service tickets within the Kate Gleason College of Engineering and self-service group management. Technologies included Active Directory, CLAWS, GitLab, MySQL. Languages included HTML/CSS, JavaScript, PHP.
+      - role: Assistant Systems Administrator
+        time: Dec 2015 - May 2016
+        company: Kate Gleason College of Engineering, Rochester Institute of Technology (Part-Time)
+        details: |
+          Assisting with day-to-day maintenance of servers, user-support activities, as well as other duties as assigned. Technologies included CLAWS, oVirt.
+      - role: Programming Team Leader
+        time: Sep 2009 - May 2013
+        company: Greater Rochester Robotics F.I.R.S.T. Team 340, Churchville-Chili High School (Volunteer)
+        details: |
+          Management of a team of 5-10 student programmers. Design and implementation of autonomous and user-controlled robot code using a variety of hardware sensors, including potentiometers, speed controllers and ultrasonics. Languages included Java, LabVIEW.
+
+researchexperiences:
+    title: Research Positions
+    info:
+      - role: Graduate Research Assistant
+        time: Sep 2018 - Dec 2023
+        company: Dr. Andrew Meneely, Rochester Institute of Technology (Full-Time Ph.D. Research)
+        details: |
+          Design, implementation, and analysis of research experiments in the areas of human factors in software engineering, notably applying human error theory, natural language processing, and machine learning to study software engineers' behaviors, workplace interactions, and security posture.
+      - role: Graduate Research Assistant
+        time: May 2019 - Jul 2019
+        company: Dr. Brian Tomaszewski, Rochester Institute of Technology (Full-Time Paid Internship)
+        details: |
+          Developed the concept of Geographic Information Capacity (GIC), a framework for measuring/analyzing the ability of communities (towns, cities, states, and countries) to understand, access, and utilize geographic information for disaster risk management, and identifying vulnerable communities for prioritizing disaster risk mitigation.
+      - role: Undergraduate Research Assistant
+        time: Jan 2017 - May 2018
+        company: Dr. Andrew Meneely, Rochester Institute of Technology (Full-Time Co-Op)
+        details: |
+          Applied natural language processing techniques to a dataset of 788,437 code reviews from the Chromium project to examine the discourse of software developers through analysis of inquisitiveness, sentiment analysis, politeness, formality, propositional density, uncertainty detection, and syntactic complexity.
+      - role: Undergraduate Research Assistant
+        time: Aug 2015 - Dec 2016
+        company: Dr. Cecilia O. Alm & Dr. Emily Prud'hommeaux, Rochester Institute of Technology (Part-Time)
+        details: |
+          Developed a set of distinct case study activities using genuine linguistic datasets to aid student learning and engagement in introductory linguistics classes. Enhanced the visualization capabilities of an existing web application, Linguine, that aided in the analysis of the case study data.
+      - role: Undergraduate Research Assistant
+        time: Jun 2015 - Aug 2015
+        company: Dr. Cecilia O. Alm & Dr. Emily Prud'hommeaux, Rochester Institute of Technology (Full-Time Co-Op)
+        details: |
+          Adapted natural language processing techniques to a corpus of speech transcriptions collected from college-aged males with and without autism spectrum disorder. Examined the trajectories of linguistic development in autism through analysis of various syntactic-, semantic-, and discourse-based metrics.
+
+academicexperiences:
+  title: Academic Positions
+  info:
+    - role: Presentation Judge
+      time: May 2022 - Jun 2022
+      company: GENIUS Olympiad, Rochester Institute of Technology (Volunteer)
+      details: |
+        Responsible for judging 23 K-12 student presentations/papers related to climate change.
+    - role: Adjunct Professor
+      time: Aug 2020 - May 2021
+      company: Department of Software Engineering, Rochester Institute of Technology (Part-Time)
+      details: |
+        Responsible for preparing coursework (slides, exams, quizzes, homework assignments, projects) and delivering lectures for 2 semesters of the Engineering Secure Software Course. This course covers the principles and practices forming the foundation for developing secure software systems. Coverage ranges across the entire development lifecycle, including requirements, design, implementation, and testing. Emphasis is on practices and patterns that reduce or eliminate security breaches in software intensive systems, and on testing systems to expose security weaknesses.
+    - role: Course Assistant, Software Performance Engineering
+      time: Jan 2019 - Mar 2019
+      company: Department of Software Engineering, Rochester Institute of Technology (Part-Time)
+      details: |
+        Responsible for grading homework and project assignments. Responsible for assisting during lectures.
+    - role: Course Assistant, Engineering Secure Software
+      time: Sep 2017 - Dec 2017
+      company: Department of Software Engineering, Rochester Institute of Technology (Part-Time)
+      details: |
+        Responsible for grading homework and project assignments. Responsible for assisting during lectures.
+    - role: Course Assistant, Language Technology
+      time: Jan 2016 - May 2016
+      company: College of Liberal Arts, Rochester Institute of Technology (Part-Time)
+      details: |
+        Responsible for grading homework and project assignments. Responsible for assisting during lectures.
+    - role: Course Assistant, Introduction to Language Science
+      time: Sep 2015 - Dec 2015
+      company: College of Liberal Arts, Rochester Institute of Technology (Part-Time)
+      details: |
+        Responsible for grading homework and project assignments. Responsible for assisting during lectures.
+
+journalexperiences:
+  title: Journal/Conference Co-Reviewer Experience
+  info:
+    - role: Mining Software Repositories (MSR) (x2)
+      time: 2022
+      company:
+      details:
+    - role: IEEE Transactions on Software Engineering (TSE) (x2)
+      time: 2018, 2021
+      company:
+      details:
+    - role: ACM Transactions on Software Engineering and Methodology (TOSEM) (x1)
+      time: 2021
+      company:
+      details:
+    - role: International Conference on Technical Debt (ICTD) (x4)
+      time: 2019, 2021
+      company:
+      details:
+    - role: Software Quality Journal (SQJ) (x1)
+      time: 2019
+      company:
+      details:
+    - role: International Symposium on Engineering Secure Software and Systems (ESSoS) (x1)
+      time: 2017
+      company:
+      details:
+
+mentorshipexperiences:
+  title: Mentorship Experience
+  info:
+    - role: Brandon N. Keller, Graduate (Ph.D.) Research Assistant
+      time: Apr 2022 - Dec 2023
+      company:
+      details:
+    - role: Sultan Fahad Almassari, Graduate (M.S.) Research Assistant
+      time: Aug 2020 - May 2021
+      company:
+      details:
+    - role: Middle School Students on F.I.R.S.T. Lego League Teams
+      time: Sep 2009 - May 2013
+      company:
+      details:
 
 certifications:
-      title: Certifications
+      title: Honors & Awards
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: Language Science and Computational Linguistics Student Excellence Award
+          start: Apr 2017
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          organization: College of Liberal Arts, Rochester Institute of Technology
+          credentialid: 
+          credentialurl:
+          credentialname: Language Science and Computational Linguistics Student Excellence Award
+          details:
+        - name: Dean's List
+          start: May 2014, May 2016, Dec 2016, May 2017
+          end:
+          organization: College of Computing & Information Sciences, Rochester Institute of Technology
+          credentialid: 
+          credentialurl:
+          credentialname:
+          details:
+        - name: Presidential Volunteer Service Award, Silver Level
+          start: May 2012, 2013
+          end:
+          organization: President of the United States
+          credentialid: 
+          credentialurl:
+          credentialname:
+          details:
+        - name: Computing Medal Award ($7,000/year Scholarship)
+          start: Jun 2012
+          end:
+          organization: Rochester Institute of Technology
+          credentialid: 
+          credentialurl:
+          credentialname:
+          details: 
+
+organizations:
+  title: Academic Organizations
+  info:
+    - role: Association for Computing Machinery (ACM)
+      time: Sep 2021 - Present
+      company:
+      details:
+    - role: Doctoral Student Association
+      time: Sep 2021 - Dec 2023
+      company:
+      details:
+    - role: Computational Linguistics and Speech Processing (CLaSP) Lab
+      time: Jun 2015 - May 2019
+      company:
+      details:
+    - role: Linguistics Society of America (LSA)
+      time: 2017
+      company:
+      details:
+
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: "H.E.R.E.: Human Error Reflection Engine"
+        link: "https://github.com/meyersbs/these-poc"
+        tagline: "Scripts facilitating semi-automated human error reflection on GitHub."
+      - title: "LUCI: Linguistic Uncertainty Classifier Interface"
+        link: "https://github.com/meyersbs/uncertainty"
+        tagline: "A Python implementation of the uncertainty classifier, based on the work of Veronika Vincze."
+      - title: "Phonetta: (phonet)ic (t)ranscription (a)ssistant"
+        link: "https://github.com/meyersbs/phonetta"
+        tagline: "A web interface for typing International Phonetic Alphabet (IPA) symbols."
+      - title: "SPLAT: Speech Processing & Linguistic Analysis Tool"
+        link: "https://github.com/meyersbs/SPLAT"
+        tagline: "Simple command line tool for basic NLP."
+      - title: "T-BAG: Text-Based Adventure Game Framework"
+        link: "https://github.com/meyersbs/t-bag"
+        tagline: "Domain-Specific Language for writing text-based adventure games."
 
 oss:
     title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Spack
+        link: "https://github.com/spack/spack/commits/develop/?author=meyersbs"
+        tagline: "Package recipes for various open-source software libraries."
+      - title: Vulnerability History Project
+        link: "https://github.com/VulnerabilityHistoryProject/chromium-vulnerabilities/commits/dev/?author=meyersbs"
+        tagline: "A museum of mistakes to help us engineer secure software."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python
+#        level: 95%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Original template designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
