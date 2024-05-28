@@ -336,7 +336,7 @@ academicexperiences:
         Responsible for grading homework and project assignments. Responsible for assisting during lectures.
 
 journalexperiences:
-  title: Journal/Conference Co-Reviewer Experience
+  title: Journal/Conference Reviewer Experience
   info:
     - role: Mining Software Repositories (MSR) (x2)
       time: 2022
@@ -346,8 +346,8 @@ journalexperiences:
       time: 2018, 2021
       company:
       details:
-    - role: ACM Transactions on Software Engineering and Methodology (TOSEM) (x1)
-      time: 2021
+    - role: ACM Transactions on Software Engineering and Methodology (TOSEM) (x2)
+      time: 2021, 2024
       company:
       details:
     - role: International Conference on Technical Debt (ICTD) (x4)
