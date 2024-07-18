@@ -173,6 +173,11 @@ presentations:
     title: Presentations
     intro: |
     papers:
+      - title: "Using Whisper AI for Transcription to Improve Oral History Workflows"
+        link: "#"
+        authors: Tamar Carroll, Benjamin S. Meyers, Emmarose Tabin, Caitlin McCabe, Elizabeth Call, Landyn Hatch, Rebekah Walker
+        conference: "Artificial Intelligence in Oral History. July 2024."
+
       - title: "Introduction to Research Computing at RIT"
         link: "#"
         authors: Benjamin S. Meyers
