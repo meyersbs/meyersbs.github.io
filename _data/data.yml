@@ -309,6 +309,11 @@ researchexperiences:
 academicexperiences:
   title: Academic Positions
   info:
+    - role: Adjunct Professor
+      time: August 2024 - Present
+      company: Department of Software Engineering, Rochester Institute of Technology (Part-Time)
+      details: |
+        Serving as a coach for Software Engineering Senior Project teams.
     - role: Presentation Judge
       time: May 2022 - Jun 2022
       company: GENIUS Olympiad, Rochester Institute of Technology (Volunteer)
