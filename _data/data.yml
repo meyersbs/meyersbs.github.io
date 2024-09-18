@@ -376,13 +376,21 @@ journalexperiences:
 mentorshipexperiences:
   title: Mentorship Experience
   info:
-    - role: Brandon N. Keller, Graduate (Ph.D.) Research Assistant
-      time: Apr 2022 - Dec 2023
-      company:
+    - role: Trevor Borden, Hayden Cabral, Aaron Chan, Dalton Fitzsimmons, Jarred Reepmeyer, Will Trimble
+      time: Aug 2024 - May 2025
+      company: Software Engineering Senior Project Team
       details:
-    - role: Sultan Fahad Almassari, Graduate (M.S.) Research Assistant
+    - role: Lucille Blain, Sam Coniglio, Erin Henderson, Jack Vander Linden, Xander Palmer
+      time: Aug 2024 - May 2025
+      company: Software Engineering Senior Project Team
+      details: 
+    - role: Brandon N. Keller
+      time: Apr 2022 - Dec 2023
+      company: Graduate (Ph.D.) Research Assistant
+      details:
+    - role: Sultan Fahad Almassari
       time: Aug 2020 - May 2021
-      company:
+      company: Graduate (M.S.) Research Assistant
       details:
     - role: Middle School Students on F.I.R.S.T. Lego League Teams
       time: Sep 2009 - May 2013
