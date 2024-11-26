@@ -236,8 +236,13 @@ presentations:
 experiences:
     title: Technical Positions
     info:
+      - role: Research Computing Facilitator III
+        time: Nov 2024 - Present
+        company: ITS Research Computing, Rochester Institute of Technology (Full-Time)
+        details: |
+          Responsible for providing advanced computing support for RIT researchers. Assisting researchers with accessing Research Computing services, such as batch processing with Slurm, data storage on a Ceph cluster, software package management with Spack, and implementing high-performance computational workflows. Responsible for development of documentation and training resources for researchers. Responsible for planning and organizing professional and social events for researchers. Technologies include Spack, Slurm, Ceph, Ansible, Jekyll. Languages include Python, C, C++, Bash, HTML/CSS.
       - role: Research Computing Facilitator II
-        time: Jul 2022 - Present
+        time: Jul 2022 - Nov 2024
         company: ITS Research Computing, Rochester Institute of Technology (Full-Time)
         details: |
           Responsible for providing advanced computing support for RIT researchers. Assisting researchers with accessing Research Computing services, such as batch processing with Slurm, data storage on a Ceph cluster, software package management with Spack, and implementing high-performance computational workflows. Responsible for development of documentation and training resources for researchers. Responsible for planning and organizing professional and social events for researchers. Technologies include Spack, Slurm, Ceph, Ansible, Jekyll. Languages include Python, C, C++, Bash, HTML/CSS.
