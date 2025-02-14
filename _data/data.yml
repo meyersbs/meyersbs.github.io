@@ -381,6 +381,18 @@ journalexperiences:
 mentorshipexperiences:
   title: Mentorship Experience
   info:
+    - role: Ashim Mahara
+      time: Sep 2024 - Present
+      company: Research Computing Student Employee
+      details:
+    - role: Noelle Voelkel
+      time: Sep 2024 - Present
+      company: Research Computing Student Employee
+      details:
+    - role: Aaliyan Qadri
+      time: Jun 2024 - Present
+      company: Research Computing Student Employee
+      details:
     - role: Trevor Borden, Hayden Cabral, Aaron Chan, Dalton Fitzsimmons, Jarred Reepmeyer, Will Trimble
       time: Aug 2024 - May 2025
       company: Software Engineering Senior Project Team
@@ -389,6 +401,42 @@ mentorshipexperiences:
       time: Aug 2024 - May 2025
       company: Software Engineering Senior Project Team
       details: 
+    - role: Jeffrey Condell
+      time: Sep 2023 - Present
+      company: Research Computing Student Employee
+      details:
+    - role: Vikas Karch 
+      time: Sep 2023 - Present
+      company: Research Computing Student Employees
+      details:
+    - role: Cecilia Lau
+      time: Sep 2022 - Present
+      company: Research Computing Student Employee
+      details:
+    - role: Tyler Allen
+      time: Oct 2023 - May 2024
+      company: Research Computing Student Employee
+      details:
+    - role: Aubrey Tarmu
+      time: Sep 2023 - May 2024
+      company: Research Computing Student Employee
+      details:
+    - role: Sangu Mbekelu
+      time: Jan 2023 - May 2024
+      company: Research Computing Student Employee
+      details:
+    - role: Bailey Brown
+      time: Oct 2022 - May 2024
+      company: Research Computing Student Employee
+      details:
+    - role: Alexander Leute
+      time: Jan 2022 - Sep 2024
+      company: Research Computing Student Employee
+      details:
+    - role: Mallory Bridge
+      time: Jul 2022 - Sep 2023
+      company: Research Computing Student Employee
+      details:
     - role: Brandon N. Keller
       time: Apr 2022 - Dec 2023
       company: Graduate (Ph.D.) Research Assistant
