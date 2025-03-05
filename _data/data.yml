@@ -84,6 +84,64 @@ sidebar:
         - item: Philosophy
           link:
 
+    books:
+      title: Book Recommendations
+      info:
+        - item: Human Error by James Reason
+          link: https://www.liftbridgebooks.com/book/9780521314190
+        - item: The Demon-Haunted World by Carl Sagan
+          link: https://www.liftbridgebooks.com/book/9780345409461
+        - item: The Botany of Desire by Michael Pollan
+          link: https://www.liftbridgebooks.com/book/9780375760396
+        - item: The New Breed by Kate Darling
+          link: https://www.liftbridgebooks.com/book/9781250838421
+        - item: NeuroTribes by Steve Silberman
+          link: https://www.liftbridgebooks.com/book/9780399185618
+        - item: "Breath: The New Science of a Lost Art by James Nestor"
+          link: https://www.liftbridgebooks.com/book/9780735213616
+        - item: Why We're Polarized by Ezra Klein
+          link: https://www.liftbridgebooks.com/book/9781476700366
+        - item: "The 1619 Project: A New Origin Story"
+          link: https://www.liftbridgebooks.com/book/9780593230596
+        - item: Immune by Philipp Dettmer
+          link: https://www.liftbridgebooks.com/book/9780593241318
+        - item: The Uninhabitable Earth by David Wallace-Wells
+          link: https://www.liftbridgebooks.com/book/9780525576716
+        - item: Other Minds by Peter Godfrey-Smith
+          link: https://www.liftbridgebooks.com/book/9780374537197
+        - item: The Anropocene Reviewed by John Green
+          link: https://www.liftbridgebooks.com/book/9780525555247
+        - item: "Tubes: A Journey to the Center of the Internet by Andrew Blum"
+          link: https://www.liftbridgebooks.com/book/9780062850300
+        - item: Because Internet by Gretchen McCulloch
+          link: https://www.liftbridgebooks.com/book/9780735210943
+        - item: The Serviceberry by Robin Wall Kimmerer
+          link: https://www.liftbridgebooks.com/book/9781668072240
+        - item: The Order of Time by Carlo Robelli
+          link: https://www.liftbridgebooks.com/book/9780735216112
+        - item: "Becoming Earth: How Our Planet Came to Life by Ferris Jabr"
+          link: https://www.liftbridgebooks.com/book/9780593133972
+        - item: The Man Who Mistook His Wife for a Hat by Oliver Sacks
+          link: https://www.liftbridgebooks.com/book/9780593466674
+        - item: Imagined Life by James Trefil
+          link: https://www.liftbridgebooks.com/book/9781588346643
+        - item: Tasting Beer by Randy Mosher
+          link: https://www.liftbridgebooks.com/book/9781612127774
+        - item: The Hobbit by J.R.R. Tolkien
+          link: https://www.liftbridgebooks.com/book/9780547928227
+        - item: The Hitchhiker's Guide to the Galaxy by Douglas Adams
+          link: https://www.liftbridgebooks.com/book/9780345453747
+        - item: The Locked Tomb Series by Tamsyn Muir
+          link: https://www.liftbridgebooks.com/book/9781250313188
+        - item: The Three-Body Problem by Cixin Liu
+          link: https://www.liftbridgebooks.com/book/9780765382030
+        - item: Project Hail Mary by Andy Weir
+          link: https://www.liftbridgebooks.com/book/9780593135228
+        - item: Do Androids Dream of Electric Sheep by Philip K. Dick
+          link: https://www.liftbridgebooks.com/book/9780345404473
+        - item: A Wizard of Earthsea by Ursula K. Le Guin
+          link: https://www.liftbridgebooks.com/book/9781481465588
+
 career-profile:
     title: Profile
     summary: |
