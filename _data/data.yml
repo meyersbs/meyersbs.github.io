@@ -456,69 +456,33 @@ journalexperiences:
 mentorshipexperiences:
   title: Mentorship Experience
   info:
-    - role: Ashim Mahara
-      time: Sep 2024 - Present
-      company: Research Computing Student Employee
+    - role: Research Computing Student Employees
+      time: Jul 2022 - Present
+      company: |
+        - Mallory Bridge (Jul 2022 - Sep 2023)
+        - Bailey Brown (Oct 2022 - May 2024)
+        - Alexander Leute (Jan 2023 - May 2024)
+        - Sangu Mbekelu (Jan 2023 - May 2024)
+        - Aubrey Tarmu (Sep 2023 - May 2024)
+        - Tyler Allen (Oct 2023 - May 2024)
+        - Cecilia Lau (Sep 2022 - Present)
+        - Vikas Karch (Sep 2023 - Present)
+        - Jeffrey Condell (Sep 2023 - Present)
+        - Aaliyan Qadri (Jun 2024 - Present)
+        - Noelle Voelkel (Sep 2024 - Present)
+        - Ashim Mahara (Sep 2024 - Present)
       details:
-    - role: Noelle Voelkel
-      time: Sep 2024 - Present
-      company: Research Computing Student Employee
-      details:
-    - role: Aaliyan Qadri
-      time: Jun 2024 - Present
-      company: Research Computing Student Employee
-      details:
-    - role: Trevor Borden, Hayden Cabral, Aaron Chan, Dalton Fitzsimmons, Jarred Reepmeyer, Will Trimble
+    - role: Software Engineering Senior Project Teams
       time: Aug 2024 - May 2025
-      company: Software Engineering Senior Project Team
+      company: |
+        - Trevor Borden, Hayden Cabral, Aaron Chan, Dalton Fitzsimmons, Jarred Reepmeyer, Will Trimble
+        - Lucille Blain, Sam Coniglio, Erin Henderson, Jack Vander Linden, Xander Palmer
       details:
-    - role: Lucille Blain, Sam Coniglio, Erin Henderson, Jack Vander Linden, Xander Palmer
-      time: Aug 2024 - May 2025
-      company: Software Engineering Senior Project Team
-      details: 
-    - role: Jeffrey Condell
-      time: Sep 2023 - Present
-      company: Research Computing Student Employee
-      details:
-    - role: Vikas Karch 
-      time: Sep 2023 - Present
-      company: Research Computing Student Employees
-      details:
-    - role: Cecilia Lau
-      time: Sep 2022 - Present
-      company: Research Computing Student Employee
-      details:
-    - role: Tyler Allen
-      time: Oct 2023 - May 2024
-      company: Research Computing Student Employee
-      details:
-    - role: Aubrey Tarmu
-      time: Sep 2023 - May 2024
-      company: Research Computing Student Employee
-      details:
-    - role: Sangu Mbekelu
-      time: Jan 2023 - May 2024
-      company: Research Computing Student Employee
-      details:
-    - role: Alexander Leute
-      time: Jan 2023 - Sep 2024
-      company: Research Computing Student Employee
-      details:
-    - role: Bailey Brown
-      time: Oct 2022 - May 2024
-      company: Research Computing Student Employee
-      details:
-    - role: Mallory Bridge
-      time: Jul 2022 - Sep 2023
-      company: Research Computing Student Employee
-      details:
-    - role: Brandon N. Keller
-      time: Apr 2022 - Dec 2023
-      company: Graduate (Ph.D.) Research Assistant
-      details:
-    - role: Sultan Fahad Almassari
-      time: Aug 2020 - May 2021
-      company: Graduate (M.S.) Research Assistant
+    - role: Research Assistants
+      time: Aug 2020 - Dec 2023
+      company: |
+        - Brandon N. Keller, Graduate (Ph.D.) Student (Apr 2022 - Dec 2023)
+        - Sultan Fahad Almassari, Graduate (M.S.) Student (Aug 2020 - May 2021)
       details:
     - role: Middle School Students on F.I.R.S.T. Lego League Teams
       time: Sep 2009 - May 2013
