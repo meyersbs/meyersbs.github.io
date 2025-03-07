@@ -1,0 +1,22 @@
+{% assign lego = site.data.data.sidebar.lego %}
+{% if books %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    {{ lego.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for set in lego.info %}
+
+      {% if set.link %}
+      <li><a href="{{ set.link }}">{{ set.item }}</a></li>
+      {% else %}
+      <li>{{ set.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//lego-->
+{% endif %}

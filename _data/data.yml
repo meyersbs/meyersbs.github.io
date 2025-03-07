@@ -35,19 +35,14 @@ sidebar:
       info:
         - idiom: English
           level: Native
-
         - idiom: Python
           level: Expert
-
         - idiom: C/C++
           level: Intermediate
-
         - idiom: Java
           level: Intermediate
-
         - idiom: Bash
           level: Proficient
-
         - idiom: HTML/CSS
           level: Proficient
 
@@ -56,31 +51,22 @@ sidebar:
       info:
         - item: Software Engineering
           link:
-
         - item: High-Performance Computing
           link:
-
         - item: Software Security
           link:
-
         - item: Human Error
           link:
-
         - item: Lego
           link:
-
         - item: Homebrewing
           link:
-
         - item: Reading
           link:
-
         - item: Botany
           link: 
-
         - item: Astrophysics
           link:
-
         - item: Philosophy
           link:
 
@@ -141,6 +127,80 @@ sidebar:
           link: https://www.liftbridgebooks.com/book/9780345404473
         - item: A Wizard of Earthsea by Ursula K. Le Guin
           link: https://www.liftbridgebooks.com/book/9781481465588
+
+    lego:
+      title: Favorite Lego Sets
+      info:
+        - item: 6615 Eagle Stunt Flyer (Town, 1996)
+          link: https://brickset.com/sets/6615-1/Eagle-Stunt-Flyer
+        - item: 4950 The Loader-Dozer (Rock Raiders, 1999)
+          link: https://brickset.com/sets/4950-1/The-Loader-Dozer
+        - item: 8514 Power (Robo Riders, 2000)
+          link: https://brickset.com/sets/8514-1/Power
+        - item: 6722 Styracosaurus (Dinosaurs, 2001)
+          link: https://brickset.com/sets/6722-1/Styracosaurus
+        - item: 8532 Onua (Bionicle, 2001)
+          link: https://brickset.com/sets/8532-1/Onua
+        - item: 4796 Ogel Mutant Squid (Alpha Team, 2002)
+          link: https://brickset.com/sets/4796-1/Ogel-Mutant-Squid
+        - item: 8778 Border Ambush (Knights Kingdom II, 2004)
+          link: https://brickset.com/sets/8778-1/Border-Ambush
+        - item: 8755 Keetongu (Bionicle, 2005)
+          link: https://brickset.com/sets/8755-1/Keetongu
+        - item: 4894 Mythical Creatures (Creator, 2006)
+          link: https://brickset.com/sets/4894-1/Mythical-Creatures
+        - item: 8733 Axonn (Bionicle, 2006)
+          link: https://brickset.com/sets/8733-1/Axonn
+        - item: 8911 Toa Jaller (Bionicle, 2007)
+          link: https://brickset.com/sets/8911-1/Toa-Jaller
+        - item: 7036 Dwarves' Mine (Castle, 2008)
+          link: https://brickset.com/sets/7036-1/Dwarves-Mine
+        - item: 21304 Doctor Who (Ideas, 2015)
+          link: https://brickset.com/sets/21304-1/Doctor-Who
+        - item: 75112 General Grievous (Star Wars, 2015)
+          link: https://brickset.com/sets/75112-1/General-Grievous
+        - item: 76028 Darkseid Invasion (DC Superheroes, 2015)
+          link: https://brickset.com/sets/76028-1/Darkseid-Invasion
+        - item: 76057 Web Warriors Ultimate Bridge Battle (Spider-Man, 2016)
+          link: https://brickset.com/sets/76057-1/Spider-Man-Web-Warriors-Ultimate-Bridge-Battle
+        - item: 21309 NASA Apollo Saturn V (Ideas, 2017)
+          link: https://brickset.com/sets/21309-1/NASA-Apollo-Saturn-V
+        - item: 31062 Robo Explorer (Creator, 2017)
+          link: https://brickset.com/sets/31062-1/Robo-Explorer
+        - item: 70618 Destiny's Bounty (Ninjago, 2017)
+          link: https://brickset.com/sets/70618-1/Destiny-s-Bounty
+        - item: 21318 Tree House (Ideas, 2019)
+          link: https://brickset.com/sets/21318-1/Tree-House
+        - item: 21320 Dinosaur Fossils (Ideas, 2019)
+          link: https://brickset.com/sets/21320-1/Dinosaur-Fossils
+        - item: 71756 Hydro Bounty (Ninjago, 2021) 
+          link: https://brickset.com/sets/71756-1/Hydro-Bounty
+        - item: 10281 Bonsai Tree (Botanicals, 2021)
+          link: https://brickset.com/sets/10281-1/Bonsai-Tree
+        - item: 10283 NASA Space Shuttle Discovery (Icons, 2021)
+          link: https://brickset.com/sets/10283-1/NASA-Space-Shuttle-Discovery
+        - item: 76989 Tallneck (Horizon, 2022)
+          link: https://brickset.com/sets/76989-1/Horizon-Forbidden-West-Tallneck
+        - item: 76832 XL-15 Spaceship (Disney, 2022)
+          link: https://brickset.com/sets/76832-1/XL-15-Spaceship
+        - item: 10302 Optimus Prime (Icons, 2022)
+          link: https://brickset.com/sets/10302-1/Optimus-Prime
+        - item: 21333 Vincent van Gogh - The Starry Night (Ideas, 2022)
+          link: https://brickset.com/sets/21333-1/Vincent-van-Gogh-The-Starry-Night
+        - item: 31129 Majestic Tiger (Creator, 2022)
+          link: https://brickset.com/sets/31129-1/Majestic-Tiger
+        - item: 10316 Rivendell (Lord of the Rings, 2023)
+          link: https://brickset.com/sets/10316-1/The-Lord-of-the-Rings-Rivendell
+        - item: 10333 Barad-d&ucirc;r (Lord of the Rings, 2024)
+          link: https://brickset.com/sets/10333-1/The-Lord-of-the-Rings-Barad-d%c3%bbr
+        - item: 31150 Wild Safari Animals (Creator, 2024)
+          link: https://brickset.com/sets/31150-1/Wild-Safari-Animals
+        - item: 76271 Gotham City (Batman, 2024)
+          link: https://brickset.com/sets/76271-1/Batman-The-Animated-Series-Gotham-City
+        - item: 31161 Medieval Dragon (Creator, 2025)
+          link: https://brickset.com/sets/31161-1/Medieval-Dragon
+        - item: "77037 Aloy &amp; Varl vs. Shell-Walker &amp; Sawtooth (Horizon, 2025)"
+          link: https://brickset.com/sets/77037-1/Aloy-Varl-vs-Shell-Walker-Sawtooth
 
 career-profile:
     title: Profile
