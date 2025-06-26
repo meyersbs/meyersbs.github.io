@@ -75,6 +75,10 @@ sidebar:
       info:
         - item: Human Error by James Reason
           link: https://www.liftbridgebooks.com/book/9780521314190
+        - item: Braiding Sweetgrass by Robin Wall Kimmerer
+          link: https://www.liftbridgebooks.com/book/9781571313560
+        - item: How to Do Nothing by Jenny Odell
+          link: https://www.liftbridgebooks.com/book/9781612198552
         - item: The Demon-Haunted World by Carl Sagan
           link: https://www.liftbridgebooks.com/book/9780345409461
         - item: The Botany of Desire by Michael Pollan
@@ -525,12 +529,13 @@ mentorshipexperiences:
         - [Sangu Mbekelu](https://www.linkedin.com/in/sangu-mbekelu-480483194/) (Jan 2023 - May 2024)
         - [Aubrey Tarmu](https://www.linkedin.com/in/aubrey-tarmu-508935256/) (Sep 2023 - May 2024)
         - [Tyler Allen](https://www.linkedin.com/in/tyler-a-csec/) (Oct 2023 - May 2024)
-        - [Cecilia Lau](https://www.linkedin.com/in/lau-cecilia/) (Sep 2022 - Present)
+        - [Cecilia Lau](https://www.linkedin.com/in/lau-cecilia/) (Sep 2022 - May 2025)
+        - [Aaliyan Qadri](https://www.linkedin.com/in/qadriaaliyan/) (Jun 2024 - May 2025)
+        - [Noelle Voelkel](https://www.linkedin.com/in/noelle-voelkel-259479250/) (Sep 2024 - May 2025)
+        - [Ashim Mahara](https://www.linkedin.com/in/ashim-mahara/) (Sep 2024 - May 2025)
         - [Vikas Karch](https://www.linkedin.com/in/vikas-karch-19688b354/) (Sep 2023 - Present)
         - [Jeffrey Condell](https://www.linkedin.com/in/jeffrey-condell-a3908b313/) (Sep 2023 - Present)
-        - [Aaliyan Qadri](https://www.linkedin.com/in/qadriaaliyan/) (Jun 2024 - Present)
-        - [Noelle Voelkel](https://www.linkedin.com/in/noelle-voelkel-259479250/) (Sep 2024 - Present)
-        - [Ashim Mahara](https://www.linkedin.com/in/ashim-mahara/) (Sep 2024 - Present)
+        - Noah Rousseau (Mar 2025 - Present)
       details: Training, advising, assigning projects, and validating student employees' work in the areas of software package management (Spack), build systems (Setuptools, Poetry, CMake), and software development (Python, Bash, LDAP, Git).
     - role: Software Engineering Senior Project Teams
       time: Aug 2024 - May 2025
@@ -542,9 +547,9 @@ mentorshipexperiences:
           - [Dalton Fitzsimmons](https://www.linkedin.com/in/dalton-fitzsimmons/)
           - [Jarred Reepmeyer](https://www.linkedin.com/in/jarred-reepmeyer/)
           - [William Trimble](https://www.linkedin.com/in/wmt1276/)
-        - Team: Machine Learning
+        - Team: Those Who Know
           - [Lucille Blain](https://www.linkedin.com/in/lucille-blain/)
-          - Sam Coniglio
+          - [Sam Coniglio](https://www.linkedin.com/in/samueliconiglio/)
           - Erin Henderson
           - [John Vander Linden](https://www.linkedin.com/in/john-vander-linden-65b6b6198/)
           - [Xander Palmer](https://www.linkedin.com/in/xander-palmer/)
