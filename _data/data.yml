@@ -655,6 +655,9 @@ oss:
       - title: MELD
         link: "https://github.com/maccallumlab/meld/commits?author=meyersbs"
         tagline: "A tool for inferring the structure of biomolecules from sparse, ambiguous, or noisy data."
+      - title: Kuibit
+        link: "https://github.com/Sbozzolo/kuibit/commits/master/?author=meyersbs"
+        tagline: "Python 3 post-processing tools for simulations performed with the Einstein Toolkit."
 
 #skills:
 #    title: Skills &amp; Proficiency
