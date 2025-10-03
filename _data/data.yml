@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.new.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: bsmits@rit.edu
+    email: dr.benjamin.meyers@pm.me
     phone: 
     timezone: 
     citizenship:
@@ -205,6 +205,8 @@ sidebar:
           link: https://brickset.com/sets/31161-1/Medieval-Dragon
         - item: "77037 Aloy &amp; Varl vs. Shell-Walker &amp; Sawtooth (Horizon, 2025)"
           link: https://brickset.com/sets/77037-1/Aloy-Varl-vs-Shell-Walker-Sawtooth
+        - item: "71847 The Guardian Dragon (Ninjago, 2025)"
+          link: https://brickset.com/sets/71847-1/The-Guardian-Dragon
 
 career-profile:
     title: Profile
